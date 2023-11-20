@@ -560,3 +560,11 @@ footer{
         width: 100%;
     }
 }
+
+
+
+@media only screen and (max-width: 600px) {
+    .content-table, thead, tbody, th, td, tr {
+    display: block;
+    }
+}
